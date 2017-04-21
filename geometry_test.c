@@ -1,4 +1,4 @@
-/*
+ /*
  * geometry_test.c
  * Andy Sayler
  * CSCI 3308
@@ -171,6 +171,7 @@ Suite* coord_2d_suite(void)
     return s;
 
 }
+
 
 /* main: run test suites and set exit status */
 int main(void){
